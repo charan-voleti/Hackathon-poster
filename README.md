@@ -3,11 +3,11 @@
 This repository contains digital posters designed by our team for our project.
 
 ## Team Members & Roles
-- Sk. Ahamad Alisha – Team Leader – Poster Tool: Canva  
-- A.N.N.S Annapurna – Designer – Poster Tool: Figma  
-- Satya Naveen – Developer – Poster Tool: Canva  
-- V.S.K Charan – Researcher – Poster Tool: Photoshop  
-- Charan Palachrala – Developer – Poster Tool: Canva  
-- Uppada Shanumukha – Designer – Poster Tool: Figma
-- Rama Devi - Designer – Poster Tool: Figma
+- Sk. Ahamad Alisha – Team Leader
+- A.N.N.S Annapurna – Designer 
+- Satya Naveen – Developer  
+- V.S.K Charan – Researcher 
+- Charan Palachrala – Developer 
+- Uppada Shanumukha – Designer
+- Rama Devi - Designer
 
