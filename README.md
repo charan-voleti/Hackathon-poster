@@ -8,10 +8,6 @@ This repository contains digital posters designed by our team for our project.
 - Satya Naveen – Developer – Poster Tool: Canva  
 - V.S.K Charan – Researcher – Poster Tool: Photoshop  
 - Charan Palachrala – Developer – Poster Tool: Canva  
-- Uppada Shanumuk – Designer – Poster Tool: Figma  
+- Uppada Shanumukha – Designer – Poster Tool: Figma
+- Rama Devi - Designer – Poster Tool: Figma
 
-## Workflow
-1. Each team member created a branch and uploaded their poster.
-2. Pull requests were raised to merge posters into main.
-3. GitHub Issues created for poster improvements.
-4. GitHub Actions workflow runs on push and prints *"Poster Uploaded Successfully ✅"*.
