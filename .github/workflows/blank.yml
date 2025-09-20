@@ -1,0 +1,17 @@
+name: Poster Upload Check
+
+# Trigger workflow on every push
+on: [push]
+
+jobs:
+  poster_check:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repo code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Display success message
+      - name: Poster Upload Confirmation
+        run: echo "Poster Uploaded Successfully ✅"
